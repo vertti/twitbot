@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "twitter-api-ts": "0.0.33"
+    "twitter": "1.7.1"
+  },
+  "devDependencies": {
+    "@types/twitter": "1.7.0"
   }
 }
