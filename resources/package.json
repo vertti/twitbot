@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "reddit-wrapper-v2": "1.1.5",
     "twitter": "1.7.1"
   },
   "devDependencies": {
