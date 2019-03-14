@@ -10,9 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "reddit-wrapper-v2": "1.1.5",
+    "request": "2.88.0",
+    "request-promise-native": "1.0.5",
     "twitter": "1.7.1"
   },
   "devDependencies": {
+    "@types/request": "2.48.1",
+    "@types/request-promise-native": "1.0.15",
     "@types/twitter": "1.7.0"
   }
 }
